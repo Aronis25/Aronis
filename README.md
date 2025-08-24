@@ -85,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,java,go=14" />
   </a>
 </p>
 
